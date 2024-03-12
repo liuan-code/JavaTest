@@ -5,7 +5,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int a = 1;
-        Integer b = 1;
+        Integer b = 2;
         if(a == b) System.out.println("--");
         else System.out.println("!=");
     }
